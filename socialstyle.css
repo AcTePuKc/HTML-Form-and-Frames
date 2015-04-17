@@ -1,0 +1,77 @@
+﻿body {
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: yellow
+}
+h3{
+    color: white;
+    text-align:center;
+}
+h4{
+    color: lime;
+    text-align:match-parent;
+}
+
+#picture{
+    border: 2px solid;
+    width: 410px;
+    height: 287px;
+}
+.bold{
+    font-weight: bold;
+}
+p {
+    text-indent: 10px;
+}
+p.right {
+    text-align: right;
+}
+p.center {
+    text-align: center;
+ }   
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: gray;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+ul#menu li a:hover {
+    background-color: orange;
+}
+ul {
+    width: 30%;
+    margin: auto;
+}
+.fr dl {
+    float: left;
+    padding-left: 0px;  
+}
+
+.fr dt, .fr dd {
+    text-align: center;
+    margin: 5px;
+    float: left;
+}
+
+.fr dt {
+    clear: left;    
+}
+.fr dd {
+    margin-right: 40px;
+    margin-left: 40px;
+}

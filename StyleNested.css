@@ -1,0 +1,9 @@
+﻿.Square{
+    list-style-type: square;
+}
+.Circle{
+    list-style-type:circle;
+}
+.Disc{
+    list-style-type: disc;
+}
