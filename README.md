@@ -1,13 +1,13 @@
 # HTML-Fundamentals-Homeworks
 Homework for Telerik HTML Fundamentals
 Nested List
-http://prntscr.com/6v0072
+[picture](http://i.imgur.com/O54xCRI.png)
 Problem 2
-http://prntscr.com/6v022g
+[picture](http://i.imgur.com/Io5srDm.png)
 Social Home
-http://prntscr.com/6v00k8
+[picture](http://i.imgur.com/aRJeoWY.png)
 Social Profile
-http://prntscr.com/6v00sb
+[picture](http://i.imgur.com/Pcdhqom.png)
 Social - Friend
-http://prntscr.com/6v010p
-Something like this :)
+[picture](http://i.imgur.com/cXs5NRh.png)
+Something like this
