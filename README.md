@@ -1,7 +1,7 @@
 # HTML-Fundamentals-Homeworks
 Homework for Telerik HTML Fundamentals
 Nested List
-[picture](http://i.imgur.com/O54xCRI.png)
+![picture](http://i.imgur.com/O54xCRI.png)
 Problem 2
 [picture](http://i.imgur.com/Io5srDm.png)
 Social Home
